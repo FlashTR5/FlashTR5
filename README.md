@@ -1,10 +1,7 @@
-## Hi there 👋
+## 👩🏻‍💻Gabriel Almeida Silva Netto
 
+Sou estudante de Engenharia de Software na Universidade Católica de Brasília (UCB), cursando o 4 período.
 <!--
-**FlashTR5/FlashTR5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
