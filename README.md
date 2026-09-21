@@ -1,62 +1,113 @@
+
+<!-- TÍTULO PRINCIPAL COM TAMANHO MAIOR -->
 <div align="center">
+  <h1>Gabriel Almeida Silva Netto </h1>
+  <p><b>Engenharia de Software | C/C++ | Python | SQL</b></p>
+</div>
 
-# Hi there, I'm Gabriel Almeida Silva Netto 👋
-### Estudante de Engenharia de Software | Desenvolvedor C, C++, Python & SQL
+<!-- SEÇÃO SOBRE MIM -->
+<div align="center">
+  <h2> ✨ Sobre Mim ✨ </h2>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-netto-6593493ba/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-007ACC?style=for-the-badge&logo=githubpages&logoColor=white)](https://flashtr5.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnetto7gn@gmail.com)
+<p align="justify">
+  Sou estudante de <b>Engenharia de Software</b> na Universidade Católica de Brasília (UCB), focado no desenvolvimento de soluções eficientes, estruturas de dados e bancos de dados relacionais. Tenho como objetivo atuar com <b>Engenharia de Dados</b> e <b>Desenvolvimento de Software</b>.
+</p>
 
+<p><b>Atualmente, meu foco principal está em:</b></p>
+
+- 🚀 Desenvolvimento de algoritmos e estruturas de dados em **C/C++** e **Python**
+- 🗄️ Modelagem relacional e otimização de consultas **SQL**
+- 🤖 Estudo contínuo de fundamentos de **Machine Learning** e **LLMs**
+
+
+<!-- SEÇÃO MEU STACK -->
+<!-- SEÇÃO MEU STACK (SEM NÍVEIS) -->
+<div align="center">
+  <h2>⚙️ Meu Stack ⚙️</h2>
+</div>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Linguagens</h3>
+      <table width="100%" align="center">
+        <tr>
+          <td align="center"><b>C / C++</b></td>
+        </tr>
+        <tr>
+          <td align="center"><b>Python</b></td>
+        </tr>
+        <tr>
+          <td align="center"><b>SQL</b></td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗄️ Banco de Dados & Conceitos</h3>
+      <table width="100%">
+        <tr>
+          <td align="center"><b>MySQL</b></td>
+        </tr>
+        <tr>
+          <td align="center"><b>Estruturas de Dados & POO</b></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- FERRAMENTAS DO DIA A DIA -->
+<div align="center">
+  <h3>🧰 Ferramentas que fazem parte do meu dia a dia</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,mysql&theme=dark" alt="Ferramentas" />
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
-
-- 🎓 **Educação:** Bacharelado em **Engenharia de Software** pela *Universidade Católica de Brasília (UCB)* (2025 - 2028).
-- 🎯 **Objetivo Atual:** Buscando oportunidades de **Estágio em TI / Desenvolvimento de Software**, Engenharia de Dados e Inteligência Artificial.
-- 📍 **Localização:** Brasília - DF, Brasil.
-- 💡 **Interesses:** Estruturas de Dados, Modelagem de Banco de Dados Relacional, Soluções em C/C++, Python e Inteligência Artificial Generativa/LLMs.
-
----
-
-## 🛠️ Principais Competências Técnicas
-
-### Linguagens & Banco de Dados
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%230000f0.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/Support_SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Ferramentas & IDEs
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-### Conceitos & Metodologias
-`Programação Orientada a Objetos (POO)` • `Estruturas de Dados` • `Métodos Ágeis` • `Modelagem 3FN/BCNF` • `Machine Learning & LLMs`
-
----
-
-## 📌 Repositórios & Projetos em Destaque
-
+<!-- PROJETOS ESTILO CARDS LADO A LADO -->
 <div align="center">
-
-| 🗳️ Sistema Justiça Eleitoral (C) | 🏦 Gestão Bancária & SQL |
-| :---: | :---: |
-| Manipulação avançada de arquivos CSV, pontes e busca otimizada em **C**. | Modelagem relacional em **3FN/BCNF**, scripts DDL/DML e consultas complexas. |
-| [![Repo C](https://github-readme-stats.vercel.app/api/pin/?username=FlashTR5&repo=Justica-Eleitoral-C&theme=tokyonight)](https://github.com/FlashTR5) | [![Repo SQL](https://github-readme-stats.vercel.app/api/pin/?username=FlashTR5&repo=Sistema-Bancario-SQL&theme=tokyonight)](https://github.com/FlashTR5) |
-
+  <h2>🚀 Projetos 🚀</h2>
+  <p>Alguns dos projetos que representam minha jornada e aprendizado:</p>
 </div>
 
----
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Manipulação de Dados em C</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C-A10000?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algoritmos-A10000?style=flat-square" />
+      </p>
+      <p align="justify">
+        Desenvolvimento colaborativo em C para parsing, busca e manipulação de arquivos CSV da Justiça Eleitoral[cite: 1]. Foco em alocação dinâmica e eficiência de memória[cite: 1].
+      </p>
+      <br>
+      <p align="center">
+        <a href="https://github.com/FlashTR5">
+          <img src="https://img.shields.io/badge/%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB_Ver_Projeto-A10000?style=for-the-badge" alt="Ver Projeto"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏦 Gestão Bancária em SQL</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MySQL-A10000?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database-A10000?style=flat-square" />
+      </p>
+      <p align="justify">
+        Modelagem relacional normalizada em 3FN/BCNF e scripts DDL/DML rigorosos para simulação de operações financeiras e regras de negócio complexas[cite: 1].
+      </p>
+      <br>
+      <p align="center">
+        <a href="https://github.com/FlashTR5/Sistema-de-Gestao-de-Contas-e-Operacoes-Bancarias">
+          <img src="https://img.shields.io/badge/%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB_Ver_Projeto-A10000?style=for-the-badge" alt="Ver Projeto"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FlashTR5&show_icons=true&theme=tokyonight&title_color=007ACC&icon_color=007ACC" alt="Estatísticas do GitHub" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashTR5&layout=compact&theme=tokyonight&title_color=007ACC" alt="Linguagens Mais Usadas" height="160"/>
+<br>
