@@ -82,7 +82,7 @@
         <img src="https://img.shields.io/badge/Algoritmos-A10000?style=flat-square" />
       </p>
       <p align="justify">
-        Desenvolvimento colaborativo em C para parsing, busca e manipulação de arquivos CSV da Justiça Eleitoral[cite: 1]. Foco em alocação dinâmica e eficiência de memória[cite: 1].
+        Desenvolvimento colaborativo em C para parsing, busca e manipulação de arquivos CSV da Justiça Eleitoral[cite: 1]. Foco em alocação dinâmica e eficiência de memória.
       </p>
       <br>
       <p align="center">
@@ -98,7 +98,7 @@
         <img src="https://img.shields.io/badge/Database-A10000?style=flat-square" />
       </p>
       <p align="justify">
-        Modelagem relacional normalizada em 3FN/BCNF e scripts DDL/DML rigorosos para simulação de operações financeiras e regras de negócio complexas[cite: 1].
+        Modelagem relacional normalizada em 3FN/BCNF e scripts DDL/DML rigorosos para simulação de operações financeiras e regras de negócio complexas.
       </p>
       <br>
       <p align="center">
