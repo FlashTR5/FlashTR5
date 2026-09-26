@@ -82,7 +82,7 @@
         <img src="https://img.shields.io/badge/Algoritmos-A10000?style=flat-square" />
       </p>
       <p align="justify">
-        Desenvolvimento colaborativo em C para parsing, busca e manipulação de arquivos CSV da Justiça Eleitoral[cite: 1]. Foco em alocação dinâmica e eficiência de memória.
+        Desenvolvimento colaborativo em C para parsing, busca e manipulação de arquivos CSV da Justiça Eleitoral. Foco em alocação dinâmica e eficiência de memória.
       </p>
       <br>
       <p align="center">
