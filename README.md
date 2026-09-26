@@ -14,11 +14,13 @@
   Sou estudante de <b>Engenharia de Software</b> na Universidade Católica de Brasília (UCB), focado no desenvolvimento de soluções eficientes, estruturas de dados e bancos de dados relacionais. Tenho como objetivo atuar com <b>Engenharia de Dados</b> e <b>Desenvolvimento de Software</b>.
 </p>
 
-<p><b>Atualmente, meu foco principal está em:</b></p>
+<p><b>Minhas competências comportamentais: :</b></p>
 
-- 🚀 Desenvolvimento de algoritmos e estruturas de dados em **C/C++** e **Python**
-- 🗄️ Modelagem relacional e otimização de consultas **SQL**
-- 🤖 Estudo contínuo de fundamentos de **Machine Learning** e **LLMs**
+- Trabalho em equipe
+- Comunicação
+- Organização
+- Resolução de problemas 
+- Aprendizado contínuo
 
 
 <!-- SEÇÃO MEU STACK -->
