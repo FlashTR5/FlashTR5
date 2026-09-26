@@ -88,7 +88,7 @@
       </p>
       <br>
       <p align="center">
-        <a href="https://github.com/FlashTR5">
+        <a href="https://github.com/FlashTR](https://github.com/FlashTR5/Sistema-para-manipular-arquivos-em-C">
           <img src="https://img.shields.io/badge/%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB_Ver_Projeto-A10000?style=for-the-badge" alt="Ver Projeto"/>
         </a>
       </p>
